@@ -49,7 +49,7 @@ The board features a robust power front-end designed for industrial environments
 
 ---
 
-## 🧪 Validation & Testing
+## 🧪 Validation & Testing (Planned)
 To ensure the design met the initial specifications, the following validation steps were performed:
 1. **Rail Noise Analysis:** Measuring VCC_Analogue ripple under heavy Ethernet/CPU activity.
 2. **Noise Floor Check:** Shorted-input test to determine the effective resolution (ENOB) of the ADC.
