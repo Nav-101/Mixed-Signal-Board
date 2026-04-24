@@ -34,7 +34,7 @@ The board features a robust power front-end designed for industrial environments
 * **Protection:** Integrated TVS diodes for transient suppression and inrush current limiting.
 * **Rail Isolation:** LDO-regulated analogue rails to provide a "quiet" supply for the ADC, physically separated from high-current digital switching loads.
 
-![Power Front](./media/pwrfront.png)
+![Power Front](./adc-pcb.png.png)
 
 ### 3. High-Speed Communication (Ethernet & CAN)
 * **Ethernet (100BASE-TX):** PHY-to-Magnetics routing treated as a 100Ω differential transmission line problem. Managed via intra-pair length matching and strictly continuous reference planes (no plane splits under diff-pairs).
