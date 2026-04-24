@@ -26,7 +26,7 @@ The mixed-signal stage is designed to maximize the Dynamic Range of the ADC.
 * **Conditioning:** Front-end features input protection and multi-stage anti-alias RC filtering.
 * **Reference Integrity:** The 2.5V reference is treated as a critical node with local star-grounding and Kelvin-point decoupling.
 
-![ADC Hero](./media/adc-hero.png)
+![ADC Hero](./adc-hero.png)
 
 ### 2. Power Management & Protection
 The board features a robust power front-end designed for industrial environments.
